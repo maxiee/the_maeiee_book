@@ -78,3 +78,9 @@
 此刻，我感到十分激动。因为我找到了一片属于自己的天地，在其中我可以自由遨游！
 
 话不多说，《TMB》的内容现在展开。
+
+---
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=maxiee/the_maeiee_book&type=Date)](https://www.star-history.com/#maxiee/the_maeiee_book&Date)
