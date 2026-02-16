@@ -19,7 +19,7 @@ OpenClaw 十分占用时间和注意力：
 
 问题：
 
-1. 如果自己 + Calude Code/Open Code 都搞不定，躲在 IM 后面控制一个要么昂贵/要么脑容量不足的 LLM，间接去控制 Calude Code/Open Code，就能完成？
+1. 如果自己 + Claude Code/Open Code 都搞不定，躲在 IM 后面控制一个要么昂贵/要么脑容量不足的 LLM，间接去控制 Claude Code/Open Code，就能完成？
 2. 自己原本是否真的需要这样的量化分析、个人管理、资讯爬虫？还是因为投入了 OpenClaw，带来了沉没成本，反而生活被绑架？
 3. 认识到 OpenClaw 当下局限性，想研究 OpenClaw 去突破。需要权衡，是直接研究 OpenClaw，还是研究全职研究 OpenClaw 的聪明人？
 
