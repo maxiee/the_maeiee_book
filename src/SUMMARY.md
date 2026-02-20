@@ -4,6 +4,7 @@
 
 - [AI](./AI/README.md)
   - [我在使用的AI服务](./AI/我在使用的AI服务.md)
+  - [AI时代莫再手写文档了](./AI/AI时代莫再手写文档了.md)
   - [AI Coding](./AI/AI%20Coding/README.md)
     - [编程已是放置游戏](./AI/AI%20Coding/编程已是放置游戏.md)
 - [写作](./写作/README.md)
